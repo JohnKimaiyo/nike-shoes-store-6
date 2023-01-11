@@ -1,4 +1,4 @@
-export const deletPost = (id) => {
+export const deletePost = (id) => {
   return {
     tyoe: "DELETE_POST",
     id,
